@@ -86,6 +86,8 @@ Okulun **bir yönetici bilgisayarıyla** aşağıdakilerin hepsi **ücretsizdir*
 
 Control Machine lisansı Control Machine ET'yi açmaz; iki program ayrıdır.
 
+<sub><b>Premium neden ücretli?</b> Ücretsiz sürüm tamamen okulunuzun ağında çalışır ve bize gideri yoktur. Premium'da tahtaların farklı ağlardan internet üzerinden yönetilebilmesi için her okul adına sunucu ve altyapı çalışır; bunun okul başına aylık yaklaşık 2–3 dolarlık gideri vardır. Ücretler tamamen bu giderleri ve uygulamanın ayakta kalmasını karşılamak içindir. Control Machine ET ticari bir girişim değildir; kâr amacı gütmeden, meslektaşlarımıza faydalı olmak için geliştiriliyor. — Aydın Robotik</sub>
+
 ## Sistem gereksinimleri
 
 | | |
