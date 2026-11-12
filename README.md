@@ -15,7 +15,7 @@
   <a href="https://github.com/caglargulcek/ControlMachineET/releases/download/v0.2.2/ControlMachine-ET-Kurulum-0.2.2.exe"><img src="gorseller/indir-windows.png" alt="Windows Yönetici indir" width="400"></a>
   <a href="https://github.com/caglargulcek/ControlMachineET/releases/download/v0.2.2/ControlMachine-ET-Pardus-Kurulum-0.2.2.deb"><img src="gorseller/indir-pardus.png" alt="Pardus Yönetici indir" width="400"></a>
   <br>
-  <a href="https://github.com/caglargulcek/ControlMachineET/releases/download/v0.2.2/ControlMachine-ET-Android-Ogretmen-1.0.20.apk"><img src="gorseller/indir-android-ogretmen.png" alt="Android Öğretmen indir" width="276"></a>
+  <a href="https://github.com/caglargulcek/ControlMachineET/releases/download/v0.2.7/ControlMachine-ET-Android-Ogretmen-1.0.23.apk"><img src="gorseller/indir-android-ogretmen.png" alt="Android Öğretmen indir" width="276"></a>
   <br><a href="../../releases/latest">Sürüm notları</a>
 </p>
 
