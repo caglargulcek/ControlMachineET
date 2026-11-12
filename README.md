@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><img src="https://img.shields.io/badge/son%20s%C3%BCr%C3%BCm-v0.2.9-EA580C?style=for-the-badge" alt="Son sürüm"></a>
+  <a href="../../releases/latest"><img src="https://img.shields.io/badge/son%20s%C3%BCr%C3%BCm-v0.3.0-EA580C?style=for-the-badge" alt="Son sürüm"></a>
   <img src="https://img.shields.io/badge/%C3%BCcretsiz-1%20y%C3%B6netici%20bilgisayar%C4%B1-10B981?style=for-the-badge" alt="Ücretsiz">
 </p>
 
@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/caglargulcek/ControlMachineET/releases/download/v0.2.9/ControlMachine-ET-Kurulum-0.2.9.exe"><img src="gorseller/indir-windows.png" alt="Windows Yönetici indir" width="400"></a>
-  <a href="https://github.com/caglargulcek/ControlMachineET/releases/download/v0.2.9/ControlMachine-ET-Pardus-Kurulum-0.2.9.deb"><img src="gorseller/indir-pardus.png" alt="Pardus Yönetici indir" width="400"></a>
+  <a href="https://github.com/caglargulcek/ControlMachineET/releases/download/v0.3.0/ControlMachine-ET-Kurulum-0.3.0.exe"><img src="gorseller/indir-windows.png" alt="Windows Yönetici indir" width="400"></a>
+  <a href="https://github.com/caglargulcek/ControlMachineET/releases/download/v0.3.0/ControlMachine-ET-Pardus-Kurulum-0.3.0.deb"><img src="gorseller/indir-pardus.png" alt="Pardus Yönetici indir" width="400"></a>
   <br>
-  <a href="https://github.com/caglargulcek/ControlMachineET/releases/download/v0.2.9/ControlMachine-ET-Android-Ogretmen-1.0.23.apk"><img src="gorseller/indir-android-ogretmen.png" alt="Android Öğretmen indir" width="276"></a>
+  <a href="https://github.com/caglargulcek/ControlMachineET/releases/download/v0.3.0/ControlMachine-ET-Android-Ogretmen-1.0.24.apk"><img src="gorseller/indir-android-ogretmen.png" alt="Android Öğretmen indir" width="276"></a>
   <br><a href="../../releases/latest">Sürüm notları</a>
 </p>
 
@@ -130,7 +130,7 @@ Ayrıntılar: [LİSANS](LISANS.md).
 Her sürümün notlarında kurulum dosyasının **SHA-256** özeti yazar. PowerShell ile kontrol edebilirsiniz:
 
 ```powershell
-Get-FileHash .\ControlMachine-ET-Kurulum-0.2.9.exe -Algorithm SHA256
+Get-FileHash .\ControlMachine-ET-Kurulum-0.3.0.exe -Algorithm SHA256
 ```
 
 ## Uzaktan erişim (Premium) ve iletişim
