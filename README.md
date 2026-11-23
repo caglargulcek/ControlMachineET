@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="#ücretsiz-sürümde-sunulan-özellikler"><img src="gorseller/ucretsiz.png" alt="ÜCRETSİZ — Uzaktan erişim (Premium) ücretlidir" width="100%"></a>
+  <a href="#-ücretsiz-sürümde-sunulan-özellikler"><img src="gorseller/ucretsiz.png" alt="ÜCRETSİZ — Uzaktan erişim (Premium) ücretlidir" width="100%"></a>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ---
 
-## Videolar
+## 🎬 Videolar
 
 <table>
   <tr>
@@ -39,28 +39,29 @@
   </tr>
 </table>
 
-## Ücretsiz sürümde sunulan özellikler
+## 🎁 Ücretsiz sürümde sunulan özellikler
 
 Aşağıdaki özelliklerin tamamı, her okulda **bir yönetici bilgisayarı** için **ücretsizdir**:
 
-- **Karekodlu kilit** — Öğretmen tahtadaki karekodu telefonla okutur, tahta açılır; internet gerekmez.
-- **Kodla ve USB anahtarla açma** — 6 haneli kod, USB anahtar ve yönetici koduyla acil açma.
-- **Ders programı ve zil** — Ders bitince ve zil çalınca tahta kendiliğinden kilitlenir; teneffüste öğrenci tahtayı kullanamaz.
-- **Okulun zil sesi** — Okulun zil saatleri ve zil sesi tahtalarda.
-- **Gün sonu** — Gün sonunda tahtalar kilitli kalır.
-- **Kilit ekranı** — Okul adı, logo, saat, ders bilgisi, idare duyuruları ve Atatürk sözleri; görsel ve renkler okula göre belirlenir.
-- **Tek ekrandan yönetim** — Okuldaki bütün tahtaları tek ekranda görün; bir tahtayı, birkaçını ya da hepsini tek tıkla kilitleyin ve açın.
-- **Duyuru** — Tüm tahtalara aynı anda duyuru gönderin.
-- **Site ve dosya** — Yönetici ekranından tahtada site açın, dosya verin.
-- **Deneme sınavı sayacı** — Tahtalar geri sayıma geçer, sınav boyunca kilitli kalır.
-- **Canlı izleme ve uzaktan kontrol** — Tahta ekranlarını canlı görün, uzaktan yardım edin; kare hızını ayarlayın.
-- **Kelime denetimi** — Uygunsuz bir pencere açılırsa uyarı.
-- **Öğretmenler** — Öğretmenleri ekleyin, her öğretmene kendi karekodunu verin.
-- **Öğretmen telefon uygulaması** — Kendi ders programını girin, okulun sınıf listesini sunucudan çekin, haftalık kazanımları görün.
-- **Windows ve Pardus** — Pardus ETAP 23 / 25 tahtalar; Windows ya da Pardus yönetici bilgisayarı.
-- **Tüm güncellemeler** — Yeni sürümler ücretsiz olarak sunulur.
+- 📱 **Karekodlu kilit** — Öğretmen tahtadaki karekodu telefonla okutur, tahta açılır; internet gerekmez.
+- 🔑 **Kodla ve USB anahtarla açma** — 6 haneli kod ve yönetici koduyla acil açma; USB **Açma anahtarı** tahtayı açar, **Kaldırma anahtarı** tahta programını kaldırır.
+- 🗓️ **Ders programı ve zil** — Ders bitince ve zil çalınca tahta kendiliğinden kilitlenir; teneffüste öğrenci tahtayı kullanamaz.
+- 🔔 **Okulun zil sesi** — Okulun zil saatleri ve zil sesi tahtalarda.
+- 🌙 **Gün sonu** — Gün sonunda tahtalar kilitli kalır.
+- 🔒 **Kilit ekranı** — Okul adı, logo, saat, ders bilgisi, idare duyuruları ve Atatürk sözleri; görsel ve renkler okula göre belirlenir.
+- 🖥️ **Tek ekrandan yönetim** — Okuldaki bütün tahtaları tek ekranda görün; bir tahtayı, birkaçını ya da hepsini tek tıkla kilitleyin ve açın.
+- 📢 **Duyuru** — Tüm tahtalara aynı anda duyuru gönderin.
+- 🌍 **Site ve dosya** — Yönetici ekranından tahtada site açın, dosya verin.
+- ⏱️ **Deneme sınavı sayacı** — Tahtalar geri sayıma geçer, sınav boyunca kilitli kalır.
+- 👀 **Canlı izleme ve uzaktan kontrol** — Tahta ekranlarını canlı görün, uzaktan yardım edin; kare hızını ayarlayın.
+- 🛡️ **Kelime denetimi** — Uygunsuz bir pencere açılırsa uyarı.
+- 🧑‍🏫 **Öğretmenler** — Öğretmenleri ekleyin, her öğretmene kendi karekodunu verin.
+- 📲 **Öğretmen telefon uygulaması** — Kendi ders programını girin, okulun sınıf listesini sunucudan çekin, haftalık kazanımları görün.
+- 🐧 **Windows ve Pardus** — Pardus ETAP 23 / 25 tahtalar; Windows ya da Pardus yönetici bilgisayarı.
+- 🪟 **Yer kaplamayan "Tahta açık" paneli** — Açık tahtada süre ve Uzat/Kilitle/Kapat paneli yalnız masaüstünde görünür; tam ekran video ya da yazı programını örtmez, kullanılmazsa köşede küçük simgeye dönüşür.
+- 🔄 **Tüm güncellemeler** — Yeni sürümler ücretsiz olarak sunulur.
 
-## Uzaktan erişim (Premium, ücretli)
+## ⭐ Uzaktan erişim (Premium, ücretli)
 
 > ⭐ **Temel fark: farklı ağlardaki tahtaların internet üzerinden yönetimi.**
 > Ücretsiz sürüm, okul ağındaki tahtaları yönetir. Premium ile farklı ağlarda bulunan tahtalar da internet üzerinden
@@ -68,15 +69,16 @@ Aşağıdaki özelliklerin tamamı, her okulda **bir yönetici bilgisayarı** i�
 
 Ücretsiz sürümdeki tüm özelliklere ek olarak:
 
-- **Farklı ağlardaki tahtaları internet üzerinden yönetme**
-- **Face ID ve parmak iziyle** tek dokunuşla açma
-- **Telefonun kendi interneti üzerinden** açma ve kilitleme
-- **Okul dışından** kilitleme, açma ve duyuru gönderme
-- **Telefondan tahtaya site ve dosya gönderme** (USB bellek gerektirmez)
-- **Açtığınız tahtanın görüntüsünü** telefonda görme
-- **Telefondan arıza bildirimi**
+- 🌐 **Farklı ağlardaki tahtaları internet üzerinden yönetme**
+- 🖱️ **Bilgisayardan tek tahtayı internet üzerinden** canlı görme, fare ve klavye ile kullanma
+- 👆 **Face ID ve parmak iziyle** tek dokunuşla açma
+- 📶 **Telefonun kendi interneti üzerinden** açma ve kilitleme
+- 🏠 **Okul dışından** kilitleme, açma ve duyuru gönderme
+- 📤 **Telefondan tahtaya site ve dosya gönderme** (USB bellek gerektirmez)
+- 🖼️ **Açtığınız tahtanın görüntüsünü** telefonda görme
+- 🛠️ **Telefondan arıza bildirimi**
 
-## Ücretler
+## 💳 Ücretler
 
 | | |
 |---|---|
@@ -88,7 +90,7 @@ Control Machine lisansı Control Machine ET'yi açmaz; iki program ayrıdır.
 
 <sub><b>Uzaktan erişim neden ücretlidir?</b> Ücretsiz sürüm yalnızca okulun yerel ağında çalışır ve herhangi bir sunucu gideri doğurmaz. Uzaktan erişimde ise farklı ağlardaki tahtaların internet üzerinden yönetilebilmesi için her okul adına sunucu ve altyapı hizmeti kullanılır; bu hizmetin okul başına aylık gideri yaklaşık 2–3 ABD dolarıdır. Premium ve ek yönetici bilgisayarı ücretleri yalnızca bu giderleri ve uygulamanın sürdürülmesini karşılamak amacıyla alınır. Control Machine ET ticari bir girişim değildir; okullardaki gerçek bir ihtiyaçtan doğmuş olup kâr amacı gütmeden geliştirilmektedir. — Aydın Robotik</sub>
 
-## Sistem gereksinimleri
+## 💻 Sistem gereksinimleri
 
 | | |
 |---|---|
@@ -98,7 +100,7 @@ Control Machine lisansı Control Machine ET'yi açmaz; iki program ayrıdır.
 | **Ağ** | Yönetici bilgisayarı ve tahtalar aynı okul ağında (Premium'da gerekmez) |
 | **İnternet** | İlk etkinleştirme için |
 
-## Kurulum
+## 📥 Kurulum
 
 > Adım adım anlatım için: **[Kurulum videosu](https://www.youtube.com/watch?v=pZ9a1sGNJ24)**
 
@@ -119,13 +121,13 @@ Control Machine lisansı Control Machine ET'yi açmaz; iki program ayrıdır.
 1. Öğretmen uygulamasını kurun (Android için [son sürüm](../../releases/latest) sayfasındaki **ControlMachine-ET-Android-Ogretmen-x.y.z.apk**).
 2. Yönetici programının verdiği karekodu okutun; telefon okula bağlanır.
 
-## Gizlilik
+## 🔐 Gizlilik
 
 Tahta ekran görüntüleri **kaydedilmez**. Premium kullanılmıyorsa tahtaların yönetimi **okulunuzun ağında kalır**.
 Etkinleştirmede yalnızca e-posta adresi, okul kodu ve bilgisayarın donanım kimliği lisans sunucusuna iletilir.
 Ayrıntılar: [LİSANS](LISANS.md).
 
-## Dosyayı doğrulama
+## ✅ Dosyayı doğrulama
 
 Her sürümün notlarında kurulum dosyasının **SHA-256** özeti yazar. PowerShell ile kontrol edebilirsiniz:
 
@@ -133,7 +135,7 @@ Her sürümün notlarında kurulum dosyasının **SHA-256** özeti yazar. PowerS
 Get-FileHash .\ControlMachine-ET-Kurulum-0.3.11.exe -Algorithm SHA256
 ```
 
-## Uzaktan erişim (Premium) ve iletişim
+## 💬 Uzaktan erişim (Premium) ve iletişim
 
 - E-posta: **aydinrobotik@gmail.com**
 - Instagram: **@aydinrobotik**
