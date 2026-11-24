@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><img src="https://img.shields.io/badge/son%20s%C3%BCr%C3%BCm-v0.3.16-EA580C?style=for-the-badge" alt="Son sürüm"></a>
+  <a href="../../releases/latest"><img src="https://img.shields.io/badge/son%20s%C3%BCr%C3%BCm-v0.3.17-EA580C?style=for-the-badge" alt="Son sürüm"></a>
   <img src="https://img.shields.io/badge/%C3%BCcretsiz-1%20y%C3%B6netici%20bilgisayar%C4%B1-10B981?style=for-the-badge" alt="Ücretsiz">
 </p>
 
@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/caglargulcek/ControlMachineET/releases/download/v0.3.16/ControlMachine-ET-Kurulum-0.3.16.exe"><img src="gorseller/indir-windows.png" alt="Windows Yönetici indir" width="400"></a>
-  <a href="https://github.com/caglargulcek/ControlMachineET/releases/download/v0.3.16/ControlMachine-ET-Pardus-Kurulum-0.3.16.deb"><img src="gorseller/indir-pardus.png" alt="Pardus Yönetici indir" width="400"></a>
+  <a href="https://github.com/caglargulcek/ControlMachineET/releases/download/v0.3.17/ControlMachine-ET-Kurulum-0.3.17.exe"><img src="gorseller/indir-windows.png" alt="Windows Yönetici indir" width="400"></a>
+  <a href="https://github.com/caglargulcek/ControlMachineET/releases/download/v0.3.17/ControlMachine-ET-Pardus-Kurulum-0.3.17.deb"><img src="gorseller/indir-pardus.png" alt="Pardus Yönetici indir" width="400"></a>
   <br>
   <a href="https://play.google.com/store/apps/details?id=tr.aydinrobotik.cm_et_ogretmen"><img src="gorseller/indir-android-ogretmen.png?v=2" alt="Android Öğretmen: Google Play" width="276"></a>
   <a href="https://apps.apple.com/tr/app/cm-et-%C3%B6%C4%9Fretmen/id6832331223"><img src="gorseller/indir-ios-ogretmen.png?v=1" alt="iPhone Öğretmen: App Store" width="276"></a>
@@ -133,7 +133,7 @@ Ayrıntılar: [LİSANS](LISANS.md).
 Her sürümün notlarında kurulum dosyasının **SHA-256** özeti yazar. PowerShell ile kontrol edebilirsiniz:
 
 ```powershell
-Get-FileHash .\ControlMachine-ET-Kurulum-0.3.16.exe -Algorithm SHA256
+Get-FileHash .\ControlMachine-ET-Kurulum-0.3.17.exe -Algorithm SHA256
 ```
 
 ## 💬 Uzaktan erişim (Premium) ve iletişim
