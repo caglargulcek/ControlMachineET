@@ -15,7 +15,8 @@
   <a href="https://github.com/caglargulcek/ControlMachineET/releases/download/v0.3.16/ControlMachine-ET-Kurulum-0.3.16.exe"><img src="gorseller/indir-windows.png" alt="Windows Yönetici indir" width="400"></a>
   <a href="https://github.com/caglargulcek/ControlMachineET/releases/download/v0.3.16/ControlMachine-ET-Pardus-Kurulum-0.3.16.deb"><img src="gorseller/indir-pardus.png" alt="Pardus Yönetici indir" width="400"></a>
   <br>
-  <a href="https://github.com/caglargulcek/ControlMachineET/releases/download/v0.3.16/ControlMachine-ET-Android-Ogretmen-1.0.24.apk"><img src="gorseller/indir-android-ogretmen.png" alt="Android Öğretmen indir" width="276"></a>
+  <a href="https://play.google.com/store/apps/details?id=tr.aydinrobotik.cm_et_ogretmen"><img src="gorseller/indir-android-ogretmen.png?v=2" alt="Android Öğretmen: Google Play" width="276"></a>
+  <a href="https://apps.apple.com/tr/app/cm-et-%C3%B6%C4%9Fretmen/id6832331223"><img src="gorseller/indir-ios-ogretmen.png?v=1" alt="iPhone Öğretmen: App Store" width="276"></a>
   <br><a href="../../releases/latest">Sürüm notları</a>
 </p>
 
@@ -96,7 +97,7 @@ Control Machine lisansı Control Machine ET'yi açmaz; iki program ayrıdır.
 |---|---|
 | **Yönetici bilgisayarı** | Windows 10 / 11 (64 bit) ya da Pardus 23 / 25 |
 | **Akıllı tahtalar** | Pardus ETAP 23 / 25 |
-| **Öğretmen telefonu** | Android |
+| **Öğretmen telefonu** | Android (Google Play) ya da iPhone (App Store) |
 | **Ağ** | Yönetici bilgisayarı ve tahtalar aynı okul ağında (Premium'da gerekmez) |
 | **İnternet** | İlk etkinleştirme için |
 
@@ -118,7 +119,7 @@ Control Machine lisansı Control Machine ET'yi açmaz; iki program ayrıdır.
 3. Tahtada çalıştırın; tahta birkaç saniye içinde yönetici ekranında belirir.
 
 ### 3. Öğretmen telefonu
-1. Öğretmen uygulamasını kurun (Android için [son sürüm](../../releases/latest) sayfasındaki **ControlMachine-ET-Android-Ogretmen-x.y.z.apk**).
+1. CM ET Öğretmen uygulamasını kurun: Android için [Google Play](https://play.google.com/store/apps/details?id=tr.aydinrobotik.cm_et_ogretmen), iPhone için [App Store](https://apps.apple.com/tr/app/cm-et-%C3%B6%C4%9Fretmen/id6832331223).
 2. Yönetici programının verdiği karekodu okutun; telefon okula bağlanır.
 
 ## 🔐 Gizlilik
